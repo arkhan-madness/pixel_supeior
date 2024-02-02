@@ -1280,4 +1280,7 @@
     <!-- Some Lineage repos -->
     <include name="snippets/los.xml" />
 
+    <!-- Some Pixel repos -->
+    <include name="snippets/pixel.xml" />
+
 </manifest>
