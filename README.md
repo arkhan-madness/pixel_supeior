@@ -26,7 +26,7 @@ To get started with the building process, you'll need to get familiar with [Git 
 # Sync Source:-
 
 ```bash
-repo init -u https://github.com/SuperiorExtended/manifest -b UDC --git-lfs
+repo init -u https://github.com/arkhan-madness/pixel_supeior.git -b UDC --git-lfs
 ```
 
 ```bash
